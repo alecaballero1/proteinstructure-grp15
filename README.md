@@ -26,4 +26,9 @@ Should say something along the lines
 "Hi alecaballero1! You've successfully authenticated, but GitHub does not provide shell access."
 
 #6. Clone the repository 
-git clone git@github.com:alecaballero1/proteinstructure-grp15.git
+You can click 
+→ <> Code 
+→ SSH 
+→ git@github.com:youruser/proteinstructure-grp15.git
+
+git clone git@github.com:youruser/proteinstructure-grp15.git

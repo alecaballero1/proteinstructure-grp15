@@ -34,6 +34,7 @@ Go to github
 
 
 #5. Test the connection
+
 ssh -T git@github.com
 
 
@@ -45,8 +46,12 @@ Should say something along the lines
 #6. Clone the repository 
 
 You can click 
+
 → <> Code 
+
 → SSH 
+
 → git@github.com:youruser/proteinstructure-grp15.git
+
 
 git clone git@github.com:youruser/proteinstructure-grp15.git

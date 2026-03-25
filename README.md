@@ -13,10 +13,12 @@ git config --global user.email "yourgithubemail"
 
 #2. Create pubkey
 
+And press enter 3 times
+
 ssh-keygen -t ed25519 -C "yourgithubemail"
 
 
-#3. Copy pubkey (all that appears in the console)
+#3. Copy pubkey (all that appears in the console EXCEPT from your email)
 
 cat ~/.ssh/id_ed25519.pub
 
